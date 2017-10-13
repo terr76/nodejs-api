@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/terr76/nodejs-api.git"
+  },
+  "author": "kibeom kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terr76/nodejs-api/issues"
+  },
+  "homepage": "https://github.com/terr76/nodejs-api#readme"
+}
